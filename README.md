@@ -1,6 +1,6 @@
 # Arduino UNO with Gyroscope:
 
-# Description
+## Description
 A gyroscope sensor measures the angular velocity and orientation of an object. When combined with an Arduino UNO, it can be used in various applications such as motion detection, stabilization, and navigation systems. One commonly used gyroscope sensor is the MPU-6050, which combines a 3-axis gyroscope and a 3-axis accelerometer.
 
 # Components Needed
